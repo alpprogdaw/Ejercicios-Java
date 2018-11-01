@@ -1,5 +1,12 @@
 import java.util.Scanner;
-
+/**
+ * Ejercicio 5 de Anexo A problemas
+ * 
+ * Generar los primeros n números primos
+ * 
+ * @author alode
+ * @version 1.0
+ */
 public class Genera_n_primos {
 
 	public static void main(String[] args) {
