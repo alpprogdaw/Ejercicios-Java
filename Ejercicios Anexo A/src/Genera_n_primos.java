@@ -39,7 +39,7 @@ public class Genera_n_primos {
 				}
 				if (i == m) {
 					contador++; 
-					System.out.print("-" + m);
+					System.out.print("," + m);
 					m++;
 				}
 				else {
