@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Factorial_de_un_numero {
 
 	public static void main(String[] args) {
-		
+		//Factorial de n
 		Scanner in = new Scanner (System.in);
 		
 		int producto = 1;
